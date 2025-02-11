@@ -1,0 +1,1 @@
+In these codes, the performance of a systems under MPC and LQR are compared. MPC has been implemented using the cplex solver. Under a theoretically characterized maximal disturbance characterized as a part of my thesis, the response of system under MPC and LQR is similar. This has been demonstrated via the 2 codes attached.
